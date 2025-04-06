@@ -59,6 +59,10 @@ All of this is supported by:
 
 ## 📂 Folder Structure
 
+## ✨ Team
+Made with ❤️ by Tinish Uge
+Data & AI | Accenture: Hack for the Future A Gen AI Sprint Powered by Data 2025 🚀
+
 ```bash
 ├── agents/
 │   ├── jd_summarizer.py
@@ -72,3 +76,5 @@ All of this is supported by:
 ├── app.py
 ├── .env
 └── README.md
+
+
